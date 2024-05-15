@@ -1,0 +1,12 @@
+.email-text {
+ border:none
+}
+.email-text:hover,.email-text:focus {
+ border:none;
+ outline:none;
+
+}
+
+.sub-btn {
+  background-image: linear-gradient(to right, #ff5379, #fe683e);
+}
